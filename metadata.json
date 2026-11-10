@@ -1,0 +1,8 @@
+{
+  "name": "ABI MUSIC",
+  "description": "Premium offline music and video player with seamless continuous playback, audio equalizer, playlists, and AMOLED dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
